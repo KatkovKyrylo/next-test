@@ -65,9 +65,9 @@ export const PersonalCard = () => {
                 </span>
               </div>
               <div className="rounded-[12px] w-full p-[12px] flex justify-between bg-[#F9F9FB]">
-                <span className="text-[#60646C] text-xs">Income</span>
+                <span className="text-[#60646C] text-xs">Savings</span>
                 <span className="text-[#1F2327] text-xs font-semibold">
-                  $1,000
+                  $10,000
                 </span>
               </div>
             </div>
